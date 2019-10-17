@@ -1,6 +1,4 @@
 # PSOBB-Quests-Sweepup
 Sweep-Up Operation quests for Phantasy Star Online: Blue Burst. These quests intend to fill in gaps where select enemies are missing from Mop-up style quests, notably enemies in Episode 1 that are floor restricted (Hildebears, Slimes, Bringers, Gunners). Some of these quests make use of rooms with multiple active spawn waves. These quests do not contain increases for the quest timers, nor do they ever pause your movement while playing.
 
-The decrompressed .pasm and .dat files are uploaded here as code. The releases page contains the full compressed quests that can be used on a server.
-
-The .dat files are currently binary files but will eventually be converted into a human-readable format using a processor.
+The quests were designed entirely in Qedit but are in this repository as broken up files. The quest was split into the .pasm and .dat components through Sodaboy's quest_disasm tool located [on the Ephinea forums](https://www.pioneer2.net/community/threads/psobb-quest-assembler-disassembler-source.1728/). The quest_disasm tool also produces a .dat file, which is a list of tables defining the Objects, NPCs, and Wave events for the quests. There is at most one table per type per area. The .dat file was split into those separate, human readable text files using a processing tool that allows converting the .dat file into a list of human readable files and back. This tool will be linked here when it's available and ready on Github.

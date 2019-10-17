@@ -1,0 +1,1920 @@
+Skin: 14
+ID: 18856
+Appear Flag: 0
+Map Section: 1
+Position X: 147.206909
+Position Y: 68.539795
+Position Z: -90.745361
+Rotation Y: 0
+1: 5.000001
+2: 2.100000
+3: 1.100000
+4: 0
+5: 49152
+6: 0
+
+
+Skin: 14
+ID: 18857
+Appear Flag: 0
+Map Section: 1
+Position X: 38.237701
+Position Y: 44.103504
+Position Z: 181.400146
+Rotation Y: 0
+1: 4.000001
+2: 6.100001
+3: 1.100000
+4: 0
+5: 32768
+6: 0
+
+
+Skin: 128
+ID: 18873
+Appear Flag: 0
+Map Section: 1
+Position X: 146.741852
+Position Y: 68.000000
+Position Z: -89.165405
+Rotation Y: 16384
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 319
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18874
+Appear Flag: 0
+Map Section: 1
+Position X: -122.001709
+Position Y: 75.732124
+Position Z: -107.869446
+Rotation Y: 50944
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 200
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18875
+Appear Flag: 0
+Map Section: 1
+Position X: -104.504822
+Position Y: 75.732124
+Position Z: -121.747620
+Rotation Y: 50944
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 200
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18876
+Appear Flag: 0
+Map Section: 1
+Position X: -98.565430
+Position Y: 75.632126
+Position Z: -104.978577
+Rotation Y: 50944
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 200
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18878
+Appear Flag: 0
+Map Section: 1
+Position X: -115.796570
+Position Y: 75.332130
+Position Z: -89.905823
+Rotation Y: 50944
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 200
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18879
+Appear Flag: 0
+Map Section: 1
+Position X: -84.226868
+Position Y: 75.332130
+Position Z: -131.635925
+Rotation Y: 50944
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 200
+5: 2816
+6: 0
+
+
+Skin: 128
+ID: 18664
+Appear Flag: 0
+Map Section: 2
+Position X: 113.907074
+Position Y: 23.000000
+Position Z: 254.392273
+Rotation Y: 12800
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 51
+5: 2816
+6: 0
+
+
+Skin: 14
+ID: 18665
+Appear Flag: 0
+Map Section: 2
+Position X: -111.618195
+Position Y: 35.071964
+Position Z: 232.996292
+Rotation Y: 0
+1: 4.000001
+2: 6.100001
+3: 2.100000
+4: 0
+5: 22784
+6: 0
+
+
+Skin: 14
+ID: 18666
+Appear Flag: 0
+Map Section: 2
+Position X: 114.567703
+Position Y: 22.456770
+Position Z: 255.469910
+Rotation Y: 0
+1: 4.000001
+2: 11.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 143
+ID: 18667
+Appear Flag: 0
+Map Section: 2
+Position X: 89.599144
+Position Y: 15.499997
+Position Z: -46.002441
+Rotation Y: 1856
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 170
+5: 2816
+6: 0
+
+
+Skin: 146
+ID: 18761
+Appear Flag: 0
+Map Section: 2
+Position X: 78.061043
+Position Y: 23.100000
+Position Z: -107.321228
+Rotation Y: 50944
+1: 0.000000
+2: 1.000002
+3: 0.000000
+4: 0
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18669
+Appear Flag: 0
+Map Section: 2
+Position X: 113.172943
+Position Y: 25.281944
+Position Z: 39.577454
+Rotation Y: 0
+1: 8.000001
+2: 10.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 136
+ID: 18670
+Appear Flag: 0
+Map Section: 2
+Position X: 106.090897
+Position Y: 25.281944
+Position Z: 56.263580
+Rotation Y: 0
+1: 8.000001
+2: 10.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 136
+ID: 18671
+Appear Flag: 0
+Map Section: 2
+Position X: -71.760071
+Position Y: 35.011902
+Position Z: 132.560577
+Rotation Y: 0
+1: 8.000001
+2: 10.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 136
+ID: 18672
+Appear Flag: 0
+Map Section: 2
+Position X: -79.482086
+Position Y: 35.011902
+Position Z: 149.080872
+Rotation Y: 0
+1: 8.000001
+2: 10.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 143
+ID: 18673
+Appear Flag: 0
+Map Section: 2
+Position X: 89.554779
+Position Y: 0.000000
+Position Z: -45.769592
+Rotation Y: 1792
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 170
+5: 0
+6: 0
+
+
+Skin: 144
+ID: 18674
+Appear Flag: 0
+Map Section: 2
+Position X: 49.815178
+Position Y: 30.109825
+Position Z: 19.744995
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 170
+5: 0
+6: 0
+
+
+Skin: 146
+ID: 18759
+Appear Flag: 0
+Map Section: 2
+Position X: 65.596313
+Position Y: 23.100002
+Position Z: -124.125916
+Rotation Y: 50944
+1: 0.000000
+2: 1.000002
+3: 0.000000
+4: 0
+5: 2816
+6: 0
+
+
+Skin: 146
+ID: 18760
+Appear Flag: 0
+Map Section: 2
+Position X: 82.687271
+Position Y: 23.100000
+Position Z: -127.399780
+Rotation Y: 50944
+1: 0.000000
+2: 1.000002
+3: 0.000000
+4: 16777216
+5: 2816
+6: 0
+
+
+Skin: 136
+ID: 18677
+Appear Flag: 0
+Map Section: 2
+Position X: -79.523331
+Position Y: 33.540760
+Position Z: 166.342194
+Rotation Y: 0
+1: 8.000001
+2: 10.100001
+3: 2.100000
+4: 0
+5: 43520
+6: 0
+
+
+Skin: 136
+ID: 18979
+Appear Flag: 0
+Map Section: 3
+Position X: -15.497620
+Position Y: 11.165128
+Position Z: 67.384247
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18984
+Appear Flag: 0
+Map Section: 3
+Position X: -17.556458
+Position Y: 11.165128
+Position Z: 84.451660
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18983
+Appear Flag: 0
+Map Section: 3
+Position X: -0.794556
+Position Y: 10.565125
+Position Z: 82.645203
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18985
+Appear Flag: 0
+Map Section: 3
+Position X: 0.715622
+Position Y: 10.365125
+Position Z: 66.758820
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18986
+Appear Flag: 0
+Map Section: 3
+Position X: 163.898987
+Position Y: 4.860706
+Position Z: 176.599335
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18988
+Appear Flag: 0
+Map Section: 3
+Position X: 170.000305
+Position Y: 4.660707
+Position Z: 159.418213
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 146
+ID: 18788
+Appear Flag: 0
+Map Section: 5
+Position X: -86.792725
+Position Y: 44.810753
+Position Z: -47.767944
+Rotation Y: -1280
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 50593792
+5: 0
+6: 0
+
+
+Skin: 146
+ID: 18789
+Appear Flag: 0
+Map Section: 5
+Position X: -98.325195
+Position Y: 44.410759
+Position Z: -24.256485
+Rotation Y: -1280
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 146
+ID: 18790
+Appear Flag: 0
+Map Section: 5
+Position X: -77.164124
+Position Y: 43.788593
+Position Z: -21.825378
+Rotation Y: -1280
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 16777216
+5: 0
+6: 0
+
+
+Skin: 129
+ID: 18013
+Appear Flag: 0
+Map Section: 6
+Position X: -130.470032
+Position Y: 34.623600
+Position Z: -40.038803
+Rotation Y: 24576
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 60
+5: 2816
+6: 4
+
+
+Skin: 128
+ID: 18014
+Appear Flag: 0
+Map Section: 6
+Position X: -283.628937
+Position Y: 44.000000
+Position Z: -141.293945
+Rotation Y: 512
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 1342
+5: 2816
+6: 0
+
+
+Skin: 14
+ID: 18015
+Appear Flag: 0
+Map Section: 6
+Position X: -356.571106
+Position Y: 37.458218
+Position Z: 128.465317
+Rotation Y: 0
+1: 3.000001
+2: 5.100002
+3: 6.100001
+4: 0
+5: 6912
+6: 0
+
+
+Skin: 128
+ID: 18016
+Appear Flag: 0
+Map Section: 6
+Position X: -114.266113
+Position Y: 35.156750
+Position Z: -83.612457
+Rotation Y: 22016
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 1084
+5: 2816
+6: 0
+
+
+Skin: 137
+ID: 18083
+Appear Flag: 0
+Map Section: 6
+Position X: -179.752686
+Position Y: 27.009998
+Position Z: 144.052948
+Rotation Y: 0
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 241
+5: 2816
+6: 1
+
+
+Skin: 2
+ID: 18681
+Appear Flag: 0
+Map Section: 10
+Position X: -30.408005
+Position Y: 26.000000
+Position Z: -207.507050
+Rotation Y: 0
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 0
+ID: 18682
+Appear Flag: 0
+Map Section: 10
+Position X: -22.824478
+Position Y: 25.039118
+Position Z: -177.084625
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 0
+ID: 18683
+Appear Flag: 0
+Map Section: 10
+Position X: -42.503540
+Position Y: 25.929855
+Position Z: -177.379242
+Rotation Y: 0
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 0
+ID: 18684
+Appear Flag: 0
+Map Section: 10
+Position X: -60.667603
+Position Y: 27.197702
+Position Z: -193.144775
+Rotation Y: 0
+1: 2.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 0
+ID: 18685
+Appear Flag: 0
+Map Section: 10
+Position X: -3.636261
+Position Y: 24.561430
+Position Z: -189.613541
+Rotation Y: 0
+1: 3.000001
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 18689
+Appear Flag: 0
+Map Section: 10
+Position X: -32.165619
+Position Y: 25.717226
+Position Z: -185.751984
+Rotation Y: 0
+1: 3.999997
+2: 10.100006
+3: 10.099965
+4: 0
+5: 1280
+6: 0
+
+
+Skin: 136
+ID: 18717
+Appear Flag: 0
+Map Section: 10
+Position X: -79.893967
+Position Y: 19.346607
+Position Z: 128.034637
+Rotation Y: 16128
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 2053
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 18707
+Appear Flag: 0
+Map Section: 10
+Position X: 18.273972
+Position Y: 20.231468
+Position Z: 91.028793
+Rotation Y: 0
+1: 4.000001
+2: 11.100006
+3: 10.100005
+4: 0
+5: 45056
+6: 0
+
+
+Skin: 142
+ID: 18727
+Appear Flag: 0
+Map Section: 10
+Position X: 17.837524
+Position Y: 19.000000
+Position Z: 89.671387
+Rotation Y: 12288
+1: 8.000001
+2: 11.100006
+3: 10.100005
+4: -1
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18718
+Appear Flag: 0
+Map Section: 10
+Position X: -96.893982
+Position Y: 19.346607
+Position Z: 137.034637
+Rotation Y: 16128
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 2053
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18722
+Appear Flag: 0
+Map Section: 10
+Position X: -62.893967
+Position Y: 18.746605
+Position Z: 138.034637
+Rotation Y: 16128
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 2053
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18721
+Appear Flag: 0
+Map Section: 10
+Position X: -97.893982
+Position Y: 18.346607
+Position Z: 155.034637
+Rotation Y: 16128
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 2053
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18723
+Appear Flag: 0
+Map Section: 10
+Position X: -80.711166
+Position Y: 19.146606
+Position Z: 146.026947
+Rotation Y: 16128
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 2053
+5: 0
+6: 0
+
+
+Skin: 135
+ID: 18715
+Appear Flag: 0
+Map Section: 10
+Position X: -155.422211
+Position Y: 21.995066
+Position Z: 99.003357
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 128
+ID: 18209
+Appear Flag: 0
+Map Section: 11
+Position X: -101.009933
+Position Y: 16.492142
+Position Z: -446.257050
+Rotation Y: 24576
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 77
+5: 2816
+6: 0
+
+
+Skin: 128
+ID: 18210
+Appear Flag: 0
+Map Section: 11
+Position X: -91.611839
+Position Y: 15.177194
+Position Z: -212.124298
+Rotation Y: 16384
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 774
+5: 2816
+6: 0
+
+
+Skin: 128
+ID: 18211
+Appear Flag: 0
+Map Section: 11
+Position X: -120.630524
+Position Y: 15.177194
+Position Z: 302.126923
+Rotation Y: 20480
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 2055
+5: 2816
+6: 0
+
+
+Skin: 128
+ID: 18220
+Appear Flag: 0
+Map Section: 11
+Position X: -492.100891
+Position Y: 18.597982
+Position Z: 342.096100
+Rotation Y: 14080
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 1853
+5: 2816
+6: 0
+
+
+Skin: 14
+ID: 18213
+Appear Flag: 0
+Map Section: 11
+Position X: -121.301895
+Position Y: 20.147053
+Position Z: 302.895325
+Rotation Y: 0
+1: 4.000001
+2: 15.100006
+3: 11.100005
+4: 0
+5: 53248
+6: 0
+
+
+Skin: 14
+ID: 18214
+Appear Flag: 0
+Map Section: 11
+Position X: -99.303276
+Position Y: 17.183456
+Position Z: -447.944794
+Rotation Y: 0
+1: 4.000001
+2: 3.100000
+3: 11.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 14
+ID: 18215
+Appear Flag: 0
+Map Section: 11
+Position X: -91.321213
+Position Y: 15.878676
+Position Z: -213.087769
+Rotation Y: 0
+1: 4.000001
+2: 7.100000
+3: 11.100005
+4: 0
+5: 49152
+6: 0
+
+
+Skin: 14
+ID: 18216
+Appear Flag: 0
+Map Section: 11
+Position X: -490.144043
+Position Y: 18.646835
+Position Z: 343.445251
+Rotation Y: 0
+1: 4.000001
+2: 13.100006
+3: 11.100005
+4: 0
+5: 81920
+6: 0
+
+
+Skin: 3
+ID: 18429
+Appear Flag: 0
+Map Section: 12
+Position X: -90.453247
+Position Y: 57.000000
+Position Z: 13.502075
+Rotation Y: 58161
+1: 264.000000
+2: 0.000000
+3: 236.000000
+4: -8192
+5: 57600
+6: 0
+
+
+Skin: 128
+ID: 16615
+Appear Flag: 0
+Map Section: 12
+Position X: 53.627258
+Position Y: 50.993187
+Position Z: -277.722778
+Rotation Y: 28672
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 2314
+5: 2816
+6: 0
+
+
+Skin: 3
+ID: 16616
+Appear Flag: 0
+Map Section: 12
+Position X: -84.672607
+Position Y: 53.681313
+Position Z: -213.544952
+Rotation Y: 0
+1: 320.000122
+2: 5.500001
+3: -124.000122
+4: 28672
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 16617
+Appear Flag: 0
+Map Section: 12
+Position X: 53.371338
+Position Y: 50.997120
+Position Z: -277.443909
+Rotation Y: 0
+1: 3.999952
+2: 4.100001
+3: 12.099965
+4: 0
+5: 61440
+6: 0
+
+
+Skin: 14
+ID: 16618
+Appear Flag: 0
+Map Section: 12
+Position X: -128.014587
+Position Y: 57.000000
+Position Z: -36.624146
+Rotation Y: 0
+1: 8.000000
+2: 12.000000
+3: 12.000000
+4: 0
+5: 2560
+6: 0
+
+
+Skin: 136
+ID: 16619
+Appear Flag: 0
+Map Section: 12
+Position X: 85.098999
+Position Y: 54.701069
+Position Z: 15.863251
+Rotation Y: 28160
+1: 0.999940
+2: 1.000000
+3: 0.999960
+4: 2309
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 16620
+Appear Flag: 0
+Map Section: 12
+Position X: 96.564026
+Position Y: 54.701069
+Position Z: -1.055511
+Rotation Y: 28160
+1: 0.999940
+2: 1.000000
+3: 0.999960
+4: 2309
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 16621
+Appear Flag: 0
+Map Section: 12
+Position X: 81.316711
+Position Y: 54.701069
+Position Z: -10.986069
+Rotation Y: 28160
+1: 0.999940
+2: 1.000000
+3: 0.999960
+4: 2309
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 16622
+Appear Flag: 0
+Map Section: 12
+Position X: 69.968445
+Position Y: 54.701069
+Position Z: 5.100647
+Rotation Y: 28160
+1: 0.999940
+2: 1.000000
+3: 0.999960
+4: 2309
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 16624
+Appear Flag: 0
+Map Section: 12
+Position X: 58.924133
+Position Y: 54.701069
+Position Z: 21.398544
+Rotation Y: 28160
+1: 0.999940
+2: 1.000000
+3: 0.999960
+4: 2309
+5: 0
+6: 0
+
+
+Skin: 3
+ID: 16625
+Appear Flag: 0
+Map Section: 12
+Position X: -140.101044
+Position Y: 4.227812
+Position Z: -325.261139
+Rotation Y: 4096
+1: 371.000092
+2: 56.000027
+3: 0.000000
+4: 8192
+5: 0
+6: 0
+
+
+Skin: 146
+ID: 16626
+Appear Flag: 0
+Map Section: 12
+Position X: -169.832123
+Position Y: 4.648564
+Position Z: -328.264038
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 50593792
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18551
+Appear Flag: 0
+Map Section: 13
+Position X: -97.391052
+Position Y: 22.008341
+Position Z: -61.493195
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18552
+Appear Flag: 0
+Map Section: 13
+Position X: -80.213928
+Position Y: 21.808340
+Position Z: -53.353302
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 136
+ID: 18553
+Appear Flag: 0
+Map Section: 13
+Position X: -62.567444
+Position Y: 21.508339
+Position Z: -43.893768
+Rotation Y: 0
+1: 8.000001
+2: 3.100000
+3: 10.100005
+4: 0
+5: 57344
+6: 0
+
+
+Skin: 128
+ID: 18554
+Appear Flag: 0
+Map Section: 13
+Position X: 59.093933
+Position Y: 28.708714
+Position Z: -361.922852
+Rotation Y: 1792
+1: 1.000000
+2: 1.000002
+3: 1.000001
+4: 1545
+5: 2816
+6: 0
+
+
+Skin: 14
+ID: 18555
+Appear Flag: 0
+Map Section: 13
+Position X: 60.655701
+Position Y: 28.490936
+Position Z: -358.377747
+Rotation Y: 0
+1: 4.000001
+2: 6.100002
+3: 13.099965
+4: 0
+5: 1280
+6: 0
+
+
+Skin: 142
+ID: 18556
+Appear Flag: 0
+Map Section: 13
+Position X: -87.463562
+Position Y: 31.024538
+Position Z: -331.963257
+Rotation Y: 0
+1: 8.000001
+2: 11.100006
+3: 10.100005
+4: 30
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 18575
+Appear Flag: 0
+Map Section: 13
+Position X: 59.828449
+Position Y: 19.796734
+Position Z: 15.366641
+Rotation Y: 0
+1: 4.000000
+2: 13.000000
+3: 13.000000
+4: 0
+5: 1280
+6: 0
+
+
+Skin: 136
+ID: 18743
+Appear Flag: 0
+Map Section: 15
+Position X: 325.281372
+Position Y: 19.689747
+Position Z: 62.336365
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18744
+Appear Flag: 0
+Map Section: 15
+Position X: 304.421570
+Position Y: 19.689747
+Position Z: 59.435059
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18745
+Appear Flag: 0
+Map Section: 15
+Position X: 317.303131
+Position Y: 19.689747
+Position Z: 37.652954
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18746
+Appear Flag: 0
+Map Section: 15
+Position X: 312.558868
+Position Y: 19.689747
+Position Z: 83.136658
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 130
+ID: 18747
+Appear Flag: 0
+Map Section: 15
+Position X: 289.698914
+Position Y: 18.242802
+Position Z: -12.955536
+Rotation Y: -16736
+1: 3.000000
+2: 1.000000
+3: 1.000000
+4: 91
+5: 0
+6: 0
+
+
+Skin: 130
+ID: 18748
+Appear Flag: 0
+Map Section: 15
+Position X: 289.698914
+Position Y: 18.242802
+Position Z: -2.955536
+Rotation Y: -16736
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 92
+5: 0
+6: 0
+
+
+Skin: 132
+ID: 18749
+Appear Flag: 0
+Map Section: 15
+Position X: 334.054565
+Position Y: 17.055071
+Position Z: -39.936066
+Rotation Y: -16736
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 91
+5: 0
+6: 3
+
+
+Skin: 132
+ID: 18750
+Appear Flag: 0
+Map Section: 15
+Position X: 16.255737
+Position Y: 22.654514
+Position Z: 67.572449
+Rotation Y: -43872
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 92
+5: 0
+6: 2
+
+
+Skin: 136
+ID: 18751
+Appear Flag: 0
+Map Section: 15
+Position X: 340.011078
+Position Y: 19.689747
+Position Z: 40.547607
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18752
+Appear Flag: 0
+Map Section: 15
+Position X: 347.086121
+Position Y: 19.689747
+Position Z: 65.610596
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 136
+ID: 18753
+Appear Flag: 0
+Map Section: 15
+Position X: 332.099518
+Position Y: 20.091383
+Position Z: 83.756042
+Rotation Y: -1280
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 130
+ID: 18754
+Appear Flag: 0
+Map Section: 15
+Position X: 92.612915
+Position Y: 14.268337
+Position Z: -195.131531
+Rotation Y: -22112
+1: 0.000000
+2: 1.000000
+3: 1.000000
+4: 90
+5: 0
+6: 1
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 10
+Position X: 13.193377
+Position Y: 0.000000
+Position Z: 86.433701
+Rotation Y: 0
+1: 40.000000
+2: 1.000000
+3: 1.000000
+4: 111
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 10
+Position X: 15.121093
+Position Y: 0.000000
+Position Z: 84.505981
+Rotation Y: 0
+1: 30.000000
+2: 1.000000
+3: 1.000000
+4: 113
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -95.925308
+Position Y: 16.296827
+Position Z: -470.872925
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 31
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -79.574509
+Position Y: 15.313818
+Position Z: -462.697510
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 31
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -69.764030
+Position Y: 15.051740
+Position Z: -447.981781
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 31
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 6
+Position X: 86.167969
+Position Y: 23.000000
+Position Z: -80.220734
+Rotation Y: 0
+1: 30.000000
+2: 1.000000
+3: 1.000000
+4: 21
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 1
+Position X: 146.479233
+Position Y: 69.000000
+Position Z: -101.596291
+Rotation Y: 0
+1: 40.000000
+2: 1.000000
+3: 1.000000
+4: 13
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 1
+Position X: 175.395264
+Position Y: 64.000000
+Position Z: -70.619965
+Rotation Y: 0
+1: 30.000000
+2: 1.000000
+3: 1.000000
+4: 11
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 6
+Position X: -291.917664
+Position Y: 45.000000
+Position Z: -125.084213
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 61
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 6
+Position X: -277.434448
+Position Y: 45.000000
+Position Z: -123.767563
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 61
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 6
+Position X: -262.951202
+Position Y: 45.000000
+Position Z: -122.450905
+Rotation Y: 0
+1: 15.000000
+2: 1.000000
+3: 1.000000
+4: 61
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 13
+Position X: 63.513039
+Position Y: 27.000000
+Position Z: -333.729004
+Rotation Y: 0
+1: 23.000000
+2: 1.000000
+3: 1.000000
+4: 131
+5: 0
+6: 0
+
+
+Skin: 3
+ID: 0
+Appear Flag: 1
+Map Section: 13
+Position X: 93.935463
+Position Y: 19.000000
+Position Z: 20.245674
+Rotation Y: 21526
+1: 98.000000
+2: 24.000000
+3: 440.000000
+4: 21526
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 1
+Map Section: 13
+Position X: 96.859467
+Position Y: 19.399359
+Position Z: 22.291271
+Rotation Y: 0
+1: 25.000000
+2: 1.000000
+3: 1.000000
+4: 151
+5: 0
+6: 0
+
+
+Skin: 3
+ID: 0
+Appear Flag: 0
+Map Section: 15
+Position X: 119.184906
+Position Y: 11.000000
+Position Z: -259.862640
+Rotation Y: 22306
+1: 348.000000
+2: 57.000000
+3: 125.000000
+4: 24576
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 0
+Appear Flag: 0
+Map Section: 15
+Position X: -60.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 0
+1: 10.000000
+2: 15.000000
+3: 15.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: -129.698517
+Position Y: 56.655815
+Position Z: -35.426270
+Rotation Y: 0
+1: 20.000000
+2: 1.000000
+3: 1.000000
+4: 121
+5: 0
+6: 0
+
+
+Skin: 8
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: -129.698517
+Position Y: 57.000000
+Position Z: -34.812042
+Rotation Y: 0
+1: 20.000000
+2: 1.000000
+3: 1.000000
+4: 122
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: 68.000000
+Position Y: 51.000000
+Position Z: -364.000000
+Rotation Y: 16384
+1: 1.000000
+2: 1.000000
+3: -1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: 108.000000
+Position Y: 51.000000
+Position Z: -364.000000
+Rotation Y: 16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 2
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: 72.054626
+Position Y: 51.000000
+Position Z: -322.515045
+Rotation Y: 0
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 1
+
+
+Skin: 3
+ID: 0
+Appear Flag: 1
+Map Section: 15
+Position X: -99.084732
+Position Y: 20.000000
+Position Z: -31.281683
+Rotation Y: 0
+1: -420.000000
+2: 20.000000
+3: 495.000000
+4: -24576
+5: 0
+6: 0
+
+
+Skin: 14
+ID: 0
+Appear Flag: 0
+Map Section: 15
+Position X: 104.262352
+Position Y: 13.000000
+Position Z: -237.319595
+Rotation Y: 0
+1: 6.000000
+2: 15.000000
+3: 15.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -350.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -310.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -270.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -230.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -190.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 11
+Position X: -150.000000
+Position Y: 18.000000
+Position Z: 250.000000
+Rotation Y: -16384
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 13
+Position X: -36.627808
+Position Y: 28.000000
+Position Z: -272.789825
+Rotation Y: 20000
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+
+Skin: 140
+ID: 0
+Appear Flag: 0
+Map Section: 13
+Position X: 0.674102
+Position Y: 28.000000
+Position Z: -286.133423
+Rotation Y: 20000
+1: 1.000000
+2: 1.000000
+3: 1.000000
+4: 0
+5: 0
+6: 0
+
+

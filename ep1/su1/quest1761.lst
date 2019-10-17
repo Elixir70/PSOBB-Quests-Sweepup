@@ -1,0 +1,12 @@
+# This file lists the text files for the a quest's .dat.
+# Each line that begins with # is a comment.
+# Each line should be formatted as "file, floor_number, type"
+# Floor_number is 0-based corresponding to the floor list in Qedit.
+# Valid types are obj, npc, wav, cmspawn, cmconfig
+# Valid example of one line entry: su4_ep2/su4_ep2_first.txt, 0, obj
+# Avoid empty lines.
+quest1761_a0_obj.txt, 0, obj
+quest1761_a2_obj.txt, 2, obj
+quest1761_a0_npc.txt, 0, npc
+quest1761_a2_npc.txt, 2, npc
+quest1761_a2_wave.txt, 2, wave

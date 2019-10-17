@@ -1,0 +1,258 @@
+#110:
+    Section: 11
+    Wave: 0
+    Delay: 0
+
+    Unlock 77
+
+#111:
+    Section: 11
+    Wave: 1
+    Delay: 30
+
+    Call 112
+
+#112:
+    Section: 11
+    Wave: 2
+    Delay: 45
+
+#113:
+    Section: 11
+    Wave: 3
+    Delay: 30
+
+    Call 114
+
+#114:
+    Section: 11
+    Wave: 4
+    Delay: 10
+
+    Call 115
+
+#115:
+    Section: 11
+    Wave: 5
+    Delay: 20
+
+    Call 116
+
+#116:
+    Section: 11
+    Wave: 6
+    Delay: 30
+
+#31:
+    Section: 3
+    Wave: 1
+    Delay: 10
+
+    Call 32
+
+#32:
+    Section: 3
+    Wave: 2
+    Delay: 10
+
+    Call 33
+
+#33:
+    Section: 3
+    Wave: 3
+    Delay: 10
+
+    Unlock 51
+
+#21:
+    Section: 2
+    Wave: 1
+    Delay: 10
+
+    Call 22
+
+#22:
+    Section: 2
+    Wave: 2
+    Delay: 20
+
+    Call 23
+
+#23:
+    Section: 2
+    Wave: 3
+    Delay: 25
+
+    Unlock 63
+
+#10:
+    Section: 1
+    Wave: 0
+    Delay: 0
+
+    Unlock 62
+
+#11:
+    Section: 1
+    Wave: 1
+    Delay: 10
+
+    Call 12
+
+#12:
+    Section: 1
+    Wave: 2
+    Delay: 10
+
+#13:
+    Section: 1
+    Wave: 3
+    Delay: 10
+
+    Call 14
+
+#14:
+    Section: 1
+    Wave: 4
+    Delay: 10
+
+    Call 15
+
+#15:
+    Section: 1
+    Wave: 5
+    Delay: 10
+
+#61:
+    Section: 6
+    Wave: 1
+    Delay: 30
+
+    Call 62
+
+#62:
+    Section: 6
+    Wave: 2
+    Delay: 10
+
+    Call 63
+
+#63:
+    Section: 6
+    Wave: 3
+    Delay: 10
+
+    Unlock 9
+
+#131:
+    Section: 13
+    Wave: 1
+    Delay: 20
+
+    Call 132
+
+#132:
+    Section: 13
+    Wave: 2
+    Delay: 10
+
+    Call 133
+
+#133:
+    Section: 13
+    Wave: 3
+    Delay: 10
+
+    Call 134
+
+#134:
+    Section: 13
+    Wave: 4
+    Delay: 10
+
+    Unhide 13 1
+    Unlock 120
+
+#151:
+    Section: 15
+    Wave: 1
+    Delay: 5
+
+    Call 152
+
+#152:
+    Section: 15
+    Wave: 2
+    Delay: 10
+
+    Call 153
+
+#153:
+    Section: 15
+    Wave: 3
+    Delay: 10
+
+    Call 154
+
+#154:
+    Section: 15
+    Wave: 4
+    Delay: 10
+
+    Unlock 90
+    Unhide 15 1
+
+#120:
+    Section: 12
+    Wave: 0
+    Delay: 0
+
+    Unlock 10
+
+#121:
+    Section: 12
+    Wave: 1
+    Delay: 10
+
+    Unlock 100
+
+#122:
+    Section: 12
+    Wave: 2
+    Delay: 60
+
+    Call 123
+
+#123:
+    Section: 12
+    Wave: 3
+    Delay: 20
+
+    Call 124
+
+#127:
+    Section: 12
+    Wave: 7
+    Delay: 10
+
+    Call 126
+
+#124:
+    Section: 12
+    Wave: 4
+    Delay: 150
+
+    Unlock 101
+
+#125:
+    Section: 12
+    Wave: 5
+    Delay: 30
+
+    Call 127
+
+#126:
+    Section: 12
+    Wave: 6
+    Delay: 20
+

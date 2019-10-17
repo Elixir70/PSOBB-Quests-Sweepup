@@ -1,0 +1,2 @@
+*.pasm linguist-vendored=false
+*.txt linguist-generated=true

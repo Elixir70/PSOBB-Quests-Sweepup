@@ -1,0 +1,352 @@
+#101:
+    Section: 10
+    Wave: 1
+    Delay: 30
+
+    Call 102
+
+#102:
+    Section: 10
+    Wave: 2
+    Delay: 30
+
+    Unlock 5
+    Unlock 6
+
+#201:
+    Section: 20
+    Wave: 1
+    Delay: 30
+
+    Call 202
+
+#202:
+    Section: 20
+    Wave: 2
+    Delay: 30
+
+    Unlock 7
+    Unlock 8
+
+#401:
+    Section: 40
+    Wave: 1
+    Delay: 30
+
+    Call 402
+
+#402:
+    Section: 40
+    Wave: 2
+    Delay: 10
+
+    Call 403
+
+#403:
+    Section: 40
+    Wave: 3
+    Delay: 10
+
+    Call 404
+
+#404:
+    Section: 40
+    Wave: 4
+    Delay: 50
+
+    Unlock 9
+    Unlock 10
+
+#511:
+    Section: 51
+    Wave: 1
+    Delay: 60
+
+    Call 512
+
+#512:
+    Section: 51
+    Wave: 2
+    Delay: 30
+
+    Call 513
+
+#513:
+    Section: 51
+    Wave: 3
+    Delay: 10
+
+    Unlock 15
+    Unlock 16
+
+#1601:
+    Section: 160
+    Wave: 1
+    Delay: 1
+
+#521:
+    Section: 52
+    Wave: 1
+    Delay: 40
+
+    Call 522
+
+#522:
+    Section: 52
+    Wave: 2
+    Delay: 30
+
+    Call 523
+
+#523:
+    Section: 52
+    Wave: 3
+    Delay: 30
+
+    Unlock 18
+    Unlock 19
+    Unlock 201
+    Unlock 21
+
+#520:
+    Section: 52
+    Wave: 0
+    Delay: 1
+
+    Unlock 21
+
+#211:
+    Section: 21
+    Wave: 1
+    Delay: 1
+
+    Call 212
+
+#212:
+    Section: 21
+    Wave: 2
+    Delay: 30
+
+    Unlock 20
+    Unlock 26
+
+#1911:
+    Section: 191
+    Wave: 1
+    Delay: 1
+
+#302:
+    Section: 30
+    Wave: 2
+    Delay: 60
+
+    Call 301
+
+#301:
+    Section: 30
+    Wave: 1
+    Delay: 20
+
+    Unhide 30 1
+
+#300:
+    Section: 30
+    Wave: 0
+    Delay: 3
+
+    Unlock 27
+    Unhide 30 2
+
+#321:
+    Section: 32
+    Wave: 1
+    Delay: 30
+
+    Call 322
+
+#322:
+    Section: 32
+    Wave: 2
+    Delay: 30
+
+    Unlock 23
+    Unlock 25
+
+#1821:
+    Section: 182
+    Wave: 1
+    Delay: 40
+
+#121:
+    Section: 12
+    Wave: 1
+    Delay: 60
+
+    Unlock 221
+
+#122:
+    Section: 12
+    Wave: 2
+    Delay: 120
+
+    Unlock 222
+
+#123:
+    Section: 12
+    Wave: 3
+    Delay: 180
+
+    Unlock 223
+
+#124:
+    Section: 12
+    Wave: 4
+    Delay: 240
+
+    Unlock 224
+
+#125:
+    Section: 12
+    Wave: 5
+    Delay: 300
+
+    Unlock 225
+
+#126:
+    Section: 12
+    Wave: 6
+    Delay: 30
+
+    Unhide 12 1
+
+#120:
+    Section: 12
+    Wave: 0
+    Delay: 1
+
+    Unlock 28
+    Unhide 12 2
+
+#420:
+    Section: 42
+    Wave: 0
+    Delay: 1
+
+    Unlock 27
+    Unlock 28
+
+#421:
+    Section: 42
+    Wave: 1
+    Delay: 1
+
+    Call 423
+
+#423:
+    Section: 42
+    Wave: 3
+    Delay: 20
+
+    Call 424
+
+#424:
+    Section: 42
+    Wave: 4
+    Delay: 20
+
+    Call 425
+
+#425:
+    Section: 42
+    Wave: 5
+    Delay: 10
+
+    Unlock 29
+    Unlock 30
+    Unlock 33
+    Unlock 34
+    Unlock 36
+
+#1611:
+    Section: 161
+    Wave: 1
+    Delay: 1
+
+#1612:
+    Section: 161
+    Wave: 2
+    Delay: 1
+
+#111:
+    Section: 11
+    Wave: 1
+    Delay: 30
+
+    Call 112
+
+#112:
+    Section: 11
+    Wave: 2
+    Delay: 30
+
+    Unlock 37
+
+#311:
+    Section: 31
+    Wave: 1
+    Delay: 1
+
+    Call 312
+
+#501:
+    Section: 50
+    Wave: 1
+    Delay: 1
+
+    Call 502
+
+#502:
+    Section: 50
+    Wave: 2
+    Delay: 30
+
+    Call 503
+
+#503:
+    Section: 50
+    Wave: 3
+    Delay: 30
+
+    Call 504
+
+#504:
+    Section: 50
+    Wave: 4
+    Delay: 10
+
+    Call 505
+
+#505:
+    Section: 50
+    Wave: 5
+    Delay: 10
+
+    Unlock 38
+
+#312:
+    Section: 31
+    Wave: 2
+    Delay: 30
+
+    Call 313
+
+#313:
+    Section: 31
+    Wave: 3
+    Delay: 30
+
+    Unlock 39
+    Unlock 40
+    Unlock 41
+    Unlock 42
+

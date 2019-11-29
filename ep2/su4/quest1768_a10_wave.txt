@@ -1,0 +1,434 @@
+#801:
+    Section: 80
+    Wave: 1
+    Delay: 60
+
+    Call 802
+
+#802:
+    Section: 80
+    Wave: 2
+    Delay: 30
+
+    Call 803
+
+#803:
+    Section: 80
+    Wave: 3
+    Delay: 60
+
+    Unlock 17
+    Unlock 18
+
+#2211:
+    Section: 221
+    Wave: 1
+    Delay: 1
+
+#611:
+    Section: 61
+    Wave: 1
+    Delay: 1
+
+    Call 612
+
+#612:
+    Section: 61
+    Wave: 2
+    Delay: 30
+
+    Call 613
+
+#613:
+    Section: 61
+    Wave: 3
+    Delay: 30
+
+    Call 614
+
+#614:
+    Section: 61
+    Wave: 4
+    Delay: 30
+
+    Unlock 27
+
+#31:
+    Section: 3
+    Wave: 1
+    Delay: 1
+
+    Call 32
+
+#32:
+    Section: 3
+    Wave: 2
+    Delay: 30
+
+    Unlock 22
+    Call 2521
+
+#2521:
+    Section: 252
+    Wave: 1
+    Delay: 1
+
+#706:
+    Section: 70
+    Wave: 6
+    Delay: 1
+
+#702:
+    Section: 70
+    Wave: 2
+    Delay: 20
+
+    Call 703
+
+#703:
+    Section: 70
+    Wave: 3
+    Delay: 30
+
+    Call 704
+
+#704:
+    Section: 70
+    Wave: 4
+    Delay: 30
+
+    Call 705
+
+#705:
+    Section: 70
+    Wave: 5
+    Delay: 90
+
+    Unlock 23
+    Unlock 24
+
+#641:
+    Section: 64
+    Wave: 1
+    Delay: 30
+
+    Call 642
+
+#642:
+    Section: 64
+    Wave: 2
+    Delay: 30
+
+    Call 643
+
+#643:
+    Section: 64
+    Wave: 3
+    Delay: 30
+
+    Unlock 25
+    Unlock 26
+
+#644:
+    Section: 64
+    Wave: 4
+    Delay: 30
+
+    Call 645
+
+#645:
+    Section: 64
+    Wave: 5
+    Delay: 30
+
+    Unlock 34
+    Unlock 35
+
+#711:
+    Section: 71
+    Wave: 1
+    Delay: 30
+
+    Call 712
+
+#712:
+    Section: 71
+    Wave: 2
+    Delay: 30
+
+    Call 713
+
+#713:
+    Section: 71
+    Wave: 3
+    Delay: 0
+
+    Call 714
+
+#714:
+    Section: 71
+    Wave: 4
+    Delay: 30
+
+    Unlock 36
+    Unlock 37
+
+#811:
+    Section: 81
+    Wave: 1
+    Delay: 1
+
+#812:
+    Section: 81
+    Wave: 2
+    Delay: 30
+
+    Call 813
+
+#813:
+    Section: 81
+    Wave: 3
+    Delay: 30
+
+    Call 814
+
+#814:
+    Section: 81
+    Wave: 4
+    Delay: 30
+
+    Unlock 38
+    Unlock 39
+
+#211:
+    Section: 21
+    Wave: 1
+    Delay: 60
+
+    Call 212
+
+#212:
+    Section: 21
+    Wave: 2
+    Delay: 30
+
+    Call 2531
+    Unlock 40
+    Unlock 41
+    Unlock 42
+
+#2531:
+    Section: 253
+    Wave: 1
+    Delay: 60
+
+#631:
+    Section: 63
+    Wave: 1
+    Delay: 30
+
+    Call 632
+
+#632:
+    Section: 63
+    Wave: 2
+    Delay: 30
+
+    Call 633
+
+#633:
+    Section: 63
+    Wave: 3
+    Delay: 30
+
+    Unlock 45
+    Unlock 46
+    Unlock 1
+    Unlock 2
+
+#2811:
+    Section: 281
+    Wave: 1
+    Delay: 1
+
+    Call 2812
+
+#2812:
+    Section: 281
+    Wave: 2
+    Delay: 0
+
+#201:
+    Section: 20
+    Wave: 1
+    Delay: 1
+
+#202:
+    Section: 20
+    Wave: 2
+    Delay: 1
+
+    Call 203
+
+#203:
+    Section: 20
+    Wave: 3
+    Delay: 90
+
+    Unlock 3
+    Unlock 4
+    Unlock 5
+
+#601:
+    Section: 60
+    Wave: 1
+    Delay: 1
+
+    Call 602
+
+#602:
+    Section: 60
+    Wave: 2
+    Delay: 60
+
+    Unlock 6
+    Unlock 8
+    Unlock 9
+    Unlock 10
+    Unlock 11
+    Unlock 12
+
+#301:
+    Section: 30
+    Wave: 1
+    Delay: 1
+
+#901:
+    Section: 90
+    Wave: 1
+    Delay: 1
+
+    Call 902
+    Call 905
+    Call 908
+    Call 9011
+
+#902:
+    Section: 90
+    Wave: 2
+    Delay: 10
+
+    Call 903
+
+#903:
+    Section: 90
+    Wave: 3
+    Delay: 10
+
+    Call 904
+
+#904:
+    Section: 90
+    Wave: 4
+    Delay: 10
+
+    Unlock 101
+
+#905:
+    Section: 90
+    Wave: 5
+    Delay: 10
+
+    Call 906
+
+#906:
+    Section: 90
+    Wave: 6
+    Delay: 10
+
+    Call 907
+
+#907:
+    Section: 90
+    Wave: 7
+    Delay: 10
+
+    Unlock 102
+
+#908:
+    Section: 90
+    Wave: 8
+    Delay: 10
+
+    Call 909
+
+#909:
+    Section: 90
+    Wave: 9
+    Delay: 10
+
+    Call 9010
+
+#9010:
+    Section: 90
+    Wave: 10
+    Delay: 10
+
+    Unlock 103
+
+#9011:
+    Section: 90
+    Wave: 11
+    Delay: 10
+
+    Call 9012
+
+#9012:
+    Section: 90
+    Wave: 12
+    Delay: 10
+
+    Call 9013
+
+#9013:
+    Section: 90
+    Wave: 13
+    Delay: 10
+
+    Unlock 104
+
+#9014:
+    Section: 90
+    Wave: 14
+    Delay: 60
+
+    Call 9015
+
+#9015:
+    Section: 90
+    Wave: 15
+    Delay: 30
+
+    Call 9016
+
+#9016:
+    Section: 90
+    Wave: 16
+    Delay: 30
+
+    Call 9017
+
+#9017:
+    Section: 90
+    Wave: 17
+    Delay: 30
+
+    Call 9018
+
+#9018:
+    Section: 90
+    Wave: 18
+    Delay: 120
+
+    Unlock 13
+

@@ -1,0 +1,398 @@
+#101:
+    Section: 10
+    Wave: 1
+    Delay: 30
+
+    Call 102
+
+#102:
+    Section: 10
+    Wave: 2
+    Delay: 20
+
+    Call 103
+
+#103:
+    Section: 10
+    Wave: 3
+    Delay: 30
+
+    Unlock 3
+    Unlock 4
+
+#601:
+    Section: 60
+    Wave: 1
+    Delay: 45
+
+    Call 602
+
+#602:
+    Section: 60
+    Wave: 2
+    Delay: 30
+
+    Unlock 5
+    Unlock 6
+
+#931:
+    Section: 93
+    Wave: 1
+    Delay: 30
+
+    Call 932
+
+#932:
+    Section: 93
+    Wave: 2
+    Delay: 30
+
+    Unlock 7
+    Unlock 8
+
+#1601:
+    Section: 160
+    Wave: 1
+    Delay: 1
+
+#941:
+    Section: 94
+    Wave: 1
+    Delay: 30
+
+    Call 942
+
+#942:
+    Section: 94
+    Wave: 2
+    Delay: 30
+
+    Unlock 11
+    Unlock 12
+
+#401:
+    Section: 40
+    Wave: 1
+    Delay: 30
+
+    Call 402
+
+#402:
+    Section: 40
+    Wave: 2
+    Delay: 30
+
+    Call 403
+
+#403:
+    Section: 40
+    Wave: 3
+    Delay: 30
+
+    Unlock 21
+    Unlock 22
+
+#1401:
+    Section: 140
+    Wave: 1
+    Delay: 1
+
+#301:
+    Section: 30
+    Wave: 1
+    Delay: 60
+
+    Call 302
+
+#302:
+    Section: 30
+    Wave: 2
+    Delay: 30
+
+    Call 303
+
+#303:
+    Section: 30
+    Wave: 3
+    Delay: 30
+
+    Unlock 23
+    Unlock 24
+    Call 415
+
+#415:
+    Section: 41
+    Wave: 5
+    Delay: 1
+
+    Call 411
+    Call 412
+
+#411:
+    Section: 41
+    Wave: 1
+    Delay: 60
+
+    Call 413
+
+#413:
+    Section: 41
+    Wave: 3
+    Delay: 60
+
+    Call 414
+
+#414:
+    Section: 41
+    Wave: 4
+    Delay: 60
+
+#412:
+    Section: 41
+    Wave: 2
+    Delay: 60
+
+    Call 416
+
+#416:
+    Section: 41
+    Wave: 6
+    Delay: 60
+
+    Call 417
+
+#417:
+    Section: 41
+    Wave: 7
+    Delay: 60
+
+    Call 418
+
+#418:
+    Section: 41
+    Wave: 8
+    Delay: 60
+
+#410:
+    Section: 41
+    Wave: 0
+    Delay: 1
+
+    Unlock 25
+    Unlock 26
+
+#801:
+    Section: 80
+    Wave: 1
+    Delay: 30
+
+    Call 802
+
+#802:
+    Section: 80
+    Wave: 2
+    Delay: 30
+
+    Call 803
+
+#803:
+    Section: 80
+    Wave: 3
+    Delay: 30
+
+    Call 804
+
+#804:
+    Section: 80
+    Wave: 4
+    Delay: 60
+
+    Unlock 20
+    Unlock 99
+    Call 501
+
+#501:
+    Section: 50
+    Wave: 1
+    Delay: 1
+
+    Call 502
+
+#502:
+    Section: 50
+    Wave: 2
+    Delay: 30
+
+    Call 503
+
+#503:
+    Section: 50
+    Wave: 3
+    Delay: 30
+
+#505:
+    Section: 50
+    Wave: 5
+    Delay: 1
+
+    Call 506
+
+#506:
+    Section: 50
+    Wave: 6
+    Delay: 30
+
+    Call 507
+
+#507:
+    Section: 50
+    Wave: 7
+    Delay: 30
+
+#500:
+    Section: 50
+    Wave: 0
+    Delay: 1
+
+    Unlock 18
+    Unlock 17
+
+#201:
+    Section: 20
+    Wave: 1
+    Delay: 30
+
+    Call 202
+
+#202:
+    Section: 20
+    Wave: 2
+    Delay: 30
+
+    Unlock 32
+    Unlock 31
+
+#921:
+    Section: 92
+    Wave: 1
+    Delay: 30
+
+    Call 922
+
+#922:
+    Section: 92
+    Wave: 2
+    Delay: 30
+
+    Unlock 33
+    Unlock 34
+
+#1001:
+    Section: 100
+    Wave: 1
+    Delay: 1
+
+#706:
+    Section: 70
+    Wave: 6
+    Delay: 1
+
+#701:
+    Section: 70
+    Wave: 1
+    Delay: 30
+
+    Call 702
+
+#702:
+    Section: 70
+    Wave: 2
+    Delay: 30
+
+#703:
+    Section: 70
+    Wave: 3
+    Delay: 30
+
+    Call 704
+
+#704:
+    Section: 70
+    Wave: 4
+    Delay: 30
+
+    Call 705
+
+#705:
+    Section: 70
+    Wave: 5
+    Delay: 30
+
+#700:
+    Section: 70
+    Wave: 0
+    Delay: 1
+
+    Unlock 35
+    Unlock 36
+    Unlock 37
+    Unlock 38
+
+#111:
+    Section: 11
+    Wave: 1
+    Delay: 30
+
+    Call 112
+
+#112:
+    Section: 11
+    Wave: 2
+    Delay: 60
+
+    Call 113
+
+#113:
+    Section: 11
+    Wave: 3
+    Delay: 60
+
+    Unlock 39
+    Unlock 40
+
+#611:
+    Section: 61
+    Wave: 1
+    Delay: 30
+
+    Call 612
+
+#612:
+    Section: 61
+    Wave: 2
+    Delay: 30
+
+    Call 613
+
+#613:
+    Section: 61
+    Wave: 3
+    Delay: 30
+
+    Call 614
+
+#614:
+    Section: 61
+    Wave: 4
+    Delay: 30
+
+    Call 615
+
+#615:
+    Section: 61
+    Wave: 5
+    Delay: 10
+
+    Unlock 42
+    Unlock 41
+

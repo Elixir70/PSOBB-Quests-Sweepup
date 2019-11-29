@@ -1,0 +1,3434 @@
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 150.000000
+Position Y: -100.000000
+Position Z: 206.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 150.000000
+Position Y: -100.000000
+Position Z: 170.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 175.000000
+Position Y: -100.000000
+Position Z: 188.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 200.000000
+Position Y: -100.000000
+Position Z: 206.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 200.000000
+Position Y: -100.000000
+Position Z: 170.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 250.000000
+Position Y: -100.000000
+Position Z: 170.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 250.000000
+Position Y: -100.000000
+Position Z: 220.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 250.000000
+Position Y: -100.000000
+Position Z: 195.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 230.000000
+Position Y: -100.000000
+Position Z: 180.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 230.000000
+Position Y: -100.000000
+Position Z: 210.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 440.000000
+Position Y: -98.000000
+Position Z: 194.000000
+Rotation Y: -16834
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 330.000000
+Position Y: -98.000000
+Position Z: 180.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 214
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 300.000000
+Position Y: -100.000000
+Position Z: -212.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 266.000000
+Position Y: -100.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 306.000000
+Position Y: -100.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 286.000000
+Position Y: -100.000000
+Position Z: -56.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 384.000000
+Position Y: -100.000000
+Position Z: -170.000000
+Rotation Y: -8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 404.000000
+Position Y: -100.000000
+Position Z: -152.000000
+Rotation Y: -8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 216
+Child Count: 0
+Map Section: 15
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: 393.000000
+Position Y: -100.000000
+Position Z: -172.000000
+Rotation Y: -8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 15
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: 268.000000
+Position Y: -100.000000
+Position Z: -184.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 15
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: 268.000000
+Position Y: -100.000000
+Position Z: -154.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 15
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: 268.000000
+Position Y: -100.000000
+Position Z: -124.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 9
+Wave Number 2: 9
+Position X: 310.000000
+Position Y: 50.000000
+Position Z: -128.000000
+Rotation Y: -24576
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 9
+Wave Number 2: 9
+Position X: 350.000000
+Position Y: 50.000000
+Position Z: -128.000000
+Rotation Y: 24576
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 9
+Wave Number 2: 9
+Position X: 330.000000
+Position Y: 50.000000
+Position Z: -96.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 218
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 410.000000
+Position Y: -100.000000
+Position Z: -44.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 9
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -28.000000
+Position Y: -65.000000
+Position Z: 40.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 9
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -11.000000
+Position Y: -65.000000
+Position Z: 40.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 9
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 12.000000
+Position Y: -28.000000
+Position Z: -60.000000
+Rotation Y: -2048
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 9
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 29.000000
+Position Y: -27.000000
+Position Z: -60.000000
+Rotation Y: -2048
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 15
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 328.000000
+Position Y: -100.000000
+Position Z: -156.000000
+Rotation Y: 0
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 314.000000
+Position Y: -100.000000
+Position Z: -176.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 300.000000
+Position Y: -100.000000
+Position Z: -156.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 356.000000
+Position Y: -100.000000
+Position Z: -156.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 15
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 342.000000
+Position Y: -100.000000
+Position Z: -176.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 350.000000
+Position Y: -100.000000
+Position Z: -150.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 310.000000
+Position Y: -100.000000
+Position Z: -90.000000
+Rotation Y: -8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 370.000000
+Position Y: -100.000000
+Position Z: -120.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 310.000000
+Position Y: -100.000000
+Position Z: -150.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 350.000000
+Position Y: -100.000000
+Position Z: -90.000000
+Rotation Y: 8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 15
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 290.000000
+Position Y: -100.000000
+Position Z: -120.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -40.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -20.000000
+Position Y: 0.000000
+Position Z: 20.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -20.000000
+Position Y: 0.000000
+Position Z: -20.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 3
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: -24.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 3
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 24.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 3
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 3
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 48.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -108.000000
+Position Y: 0.000000
+Position Z: 36.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -108.000000
+Position Y: 0.000000
+Position Z: -12.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -132.000000
+Position Y: 0.000000
+Position Z: 12.000000
+Rotation Y: 16384
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: -24.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 3
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 24.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: 68.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -60.000000
+Position Y: 0.000000
+Position Z: 92.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -108.000000
+Position Y: 0.000000
+Position Z: 92.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: 92.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: 116.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: -40.000000
+Position Y: 0.000000
+Position Z: -20.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -20.000000
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 20.000000
+Rotation Y: 8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: -40.000000
+Position Y: 0.000000
+Position Z: 20.000000
+Rotation Y: -8192
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: -80.000000
+Position Y: 120.000000
+Position Z: -60.000000
+Rotation Y: 8192
+1: 3.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: -20.000000
+Position Y: 120.000000
+Position Z: 0.000000
+Rotation Y: 8192
+1: 3.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: 40.000000
+Position Y: 120.000000
+Position Z: 60.000000
+Rotation Y: 8192
+1: 3.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: -132.000000
+Position Y: 0.000000
+Position Z: -78.000000
+Rotation Y: 8192
+1: 2.000000
+2: 0.400000
+3: 0.400000
+4: 0.400000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 3
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: -110.000000
+Rotation Y: 8192
+1: 2.000000
+2: 0.400000
+3: 0.400000
+4: 0.400000
+5: 0.000000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 1
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -64.000000
+Position Y: 32.000000
+Position Z: 0.000000
+Rotation Y: 4096
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 1
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -24.000000
+Position Y: 32.000000
+Position Z: 48.000000
+Rotation Y: 4096
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 1
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 0.000000
+Position Y: 32.000000
+Position Z: 0.000000
+Rotation Y: 4096
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 1
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 24.000000
+Position Y: 32.000000
+Position Z: -48.000000
+Rotation Y: 4096
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 1
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 64.000000
+Position Y: 32.000000
+Position Z: 0.000000
+Rotation Y: 4096
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -64.000000
+Position Y: 32.000000
+Position Z: 16.000000
+Rotation Y: 4096
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -24.000000
+Position Y: 32.000000
+Position Z: 28.000000
+Rotation Y: 4096
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -16.000000
+Position Y: 32.000000
+Position Z: -16.000000
+Rotation Y: 4096
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 24.000000
+Position Y: 32.000000
+Position Z: -4.000000
+Rotation Y: 4096
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 32.000000
+Position Y: 32.000000
+Position Z: -48.000000
+Rotation Y: 4096
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 214
+Child Count: 0
+Map Section: 1
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 72.000000
+Position Y: 32.000000
+Position Z: 100.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 3
+
+
+Skin: 214
+Child Count: 0
+Map Section: 3
+Wave Number 1: 10
+Wave Number 2: 10
+Position X: -20.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 2
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -156.000000
+Position Y: 0.000000
+Position Z: 38.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -96.000000
+Position Y: 0.000000
+Position Z: 38.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -126.000000
+Position Y: 0.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -66.000000
+Position Y: 0.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -156.000000
+Position Y: 0.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -96.000000
+Position Y: 0.000000
+Position Z: -38.000000
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -66.000000
+Position Y: 0.000000
+Position Z: 38.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -126.000000
+Position Y: 0.000000
+Position Z: 38.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -28.000000
+Position Y: 0.000000
+Position Z: -56.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -28.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -28.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 28.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -28.000000
+Position Y: 0.000000
+Position Z: 56.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -140.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -140.000000
+Position Y: 0.000000
+Position Z: 16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: -48.000000
+Rotation Y: 0
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 72.000000
+Rotation Y: 32768
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: -48.000000
+Rotation Y: 0
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 72.000000
+Rotation Y: 32768
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 216
+Child Count: 0
+Map Section: 4
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -32.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -16.000000
+Position Y: 0.000000
+Position Z: -56.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -48.000000
+Position Y: 0.000000
+Position Z: -56.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 16.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -32.000000
+Position Y: 0.000000
+Position Z: 48.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 6
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 14.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 32.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 48.000000
+Position Y: 0.000000
+Position Z: 80.000000
+Rotation Y: -16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -40.000000
+Position Y: 0.000000
+Position Z: 32.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -24.000000
+Position Y: 0.000000
+Position Z: 80.000000
+Rotation Y: 16384
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -32.000000
+Position Y: 0.000000
+Position Z: 56.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 56.000000
+Position Y: 0.000000
+Position Z: 56.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 96.000000
+Position Y: 0.000000
+Position Z: -154.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 96.000000
+Position Y: 0.000000
+Position Z: -122.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 96.000000
+Position Y: 0.000000
+Position Z: -90.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 116.000000
+Position Y: 0.000000
+Position Z: -138.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 3
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 116.000000
+Position Y: 0.000000
+Position Z: -106.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 6
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 14.000000
+Position Y: 100.000000
+Position Z: 0.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -32.000000
+Position Y: 100.000000
+Position Z: 0.000000
+Rotation Y: 32768
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 216
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: 64.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 216
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 64.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -80.000000
+Position Y: 0.000000
+Position Z: 32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: 8.000000
+Position Y: 0.000000
+Position Z: 32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 4
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -32.000000
+Position Y: 0.000000
+Position Z: 32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 214
+Child Count: 0
+Map Section: 8
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 16.000000
+Position Y: 13.000000
+Position Z: -40.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 8
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 28.000000
+Position Y: -2.000000
+Position Z: 128.000000
+Rotation Y: 32768
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 8
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 22.000000
+Position Y: 1.000000
+Position Z: 88.000000
+Rotation Y: 32768
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 8
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 18.000000
+Position Y: 14.000000
+Position Z: -56.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 8
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 18.000000
+Position Y: 12.000000
+Position Z: -18.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 10
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -98.137123
+Position Y: -76.000000
+Position Z: 39.845783
+Rotation Y: 8192
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 10
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -46.632107
+Position Y: -68.000000
+Position Z: 28.400223
+Rotation Y: -24576
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 7
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -1.586551
+Position Y: 17.000000
+Position Z: -31.437754
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 7
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 0.589741
+Position Y: 14.000000
+Position Z: -12.939277
+Rotation Y: 24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 7
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 8.206760
+Position Y: 16.000000
+Position Z: 7.735491
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: -96.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: -32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 0.000000
+Position Y: -0.000000
+Position Z: -96.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 64.000000
+Position Y: -0.000000
+Position Z: -96.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 1
+Wave Number 2: 1
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: -32.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 218
+Child Count: 0
+Map Section: 11
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 32768
+1: 1.000000
+2: 0.000000
+3: 150.000000
+4: 0.200000
+5: 0.200000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -16.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: -16.000000
+Position Y: 0.000000
+Position Z: 16.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 16.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 2
+Wave Number 2: 2
+Position X: 16.000000
+Position Y: 0.000000
+Position Z: 16.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 8
+Wave Number 2: 8
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 13
+Wave Number 2: 13
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 4
+Wave Number 2: 4
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 9
+Wave Number 2: 9
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 213
+Child Count: 0
+Map Section: 11
+Wave Number 1: 14
+Wave Number 2: 14
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 5
+Wave Number 2: 5
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 10
+Wave Number 2: 10
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 15
+Wave Number 2: 15
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 6
+Wave Number 2: 6
+Position X: -64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 11
+Wave Number 2: 11
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 16
+Wave Number 2: 16
+Position X: 64.000000
+Position Y: 0.000000
+Position Z: 40.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 12
+Wave Number 2: 12
+Position X: 0.000000
+Position Y: 100.000000
+Position Z: -14.000000
+Rotation Y: 32768
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: -20.000000
+Position Y: 100.000000
+Position Z: 20.000000
+Rotation Y: -8192
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 17
+Wave Number 2: 17
+Position X: 20.000000
+Position Y: 100.000000
+Position Z: 20.000000
+Rotation Y: 8192
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 12
+Wave Number 2: 12
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -73.000000
+Rotation Y: 0
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 17
+Wave Number 2: 17
+Position X: 72.000000
+Position Y: 0.000000
+Position Z: 72.000000
+Rotation Y: -24576
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 7
+Wave Number 2: 7
+Position X: -72.000000
+Position Y: 0.000000
+Position Z: 72.000000
+Rotation Y: 24576
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: -84.000000
+Position Y: 0.000000
+Position Z: 8.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: 84.000000
+Position Y: 0.000000
+Position Z: -40.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: 84.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: 84.000000
+Position Y: 0.000000
+Position Z: 8.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: 60.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 20
+Wave Number 2: 20
+Position X: -60.000000
+Position Y: 0.000000
+Position Z: -16.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: -128.000000
+Position Y: 0.000000
+Position Z: -72.000000
+Rotation Y: 8192
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: 112.000000
+Position Y: 0.000000
+Position Z: -72.000000
+Rotation Y: -8192
+1: 2.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: -32.000000
+Position Y: 0.000000
+Position Z: 52.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: -16.000000
+Position Y: 0.000000
+Position Z: 68.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: 16.000000
+Position Y: 0.000000
+Position Z: 68.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: 32.000000
+Position Y: 0.000000
+Position Z: 52.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 21
+Wave Number 2: 21
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 52.000000
+Rotation Y: 32768
+1: 0.000000
+2: 1.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 214
+Child Count: 0
+Map Section: 11
+Wave Number 1: 22
+Wave Number 2: 22
+Position X: -120.000000
+Position Y: 0.000000
+Position Z: -24.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 216
+Child Count: 0
+Map Section: 11
+Wave Number 1: 22
+Wave Number 2: 22
+Position X: 0.000000
+Position Y: -0.000001
+Position Z: -128.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 218
+Child Count: 0
+Map Section: 11
+Wave Number 1: 22
+Wave Number 2: 22
+Position X: 80.000000
+Position Y: 0.000000
+Position Z: 64.000000
+Rotation Y: -24576
+1: 1.000000
+2: 0.000000
+3: 150.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: -92.000000
+Position Y: 100.000000
+Position Z: -80.000000
+Rotation Y: 8192
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: -92.000000
+Position Y: 100.000000
+Position Z: -24.000000
+Rotation Y: 16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: -92.000000
+Position Y: 100.000000
+Position Z: 32.000000
+Rotation Y: 24576
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: 92.000000
+Position Y: 100.000000
+Position Z: 32.000000
+Rotation Y: -24576
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: 92.000000
+Position Y: 100.000000
+Position Z: -24.000000
+Rotation Y: -16384
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: 92.000000
+Position Y: 100.000000
+Position Z: -80.000000
+Rotation Y: -8192
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 212
+Child Count: 0
+Map Section: 11
+Wave Number 1: 23
+Wave Number 2: 23
+Position X: 0.000000
+Position Y: 100.000000
+Position Z: -24.000000
+Rotation Y: 0
+1: 1.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 32.000000
+Position Y: 32.000000
+Position Z: 100.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 70.000000
+Position Y: 32.000000
+Position Z: 60.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 213
+Child Count: 0
+Map Section: 1
+Wave Number 1: 3
+Wave Number 2: 3
+Position X: 42.000000
+Position Y: 32.000000
+Position Z: 70.000000
+Rotation Y: -24576
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: -20.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 20.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 20.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 215
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: -20.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 1
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: -100.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: 16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 0.000000
+Position Y: -0.000001
+Position Z: -100.000000
+Rotation Y: 0
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 100.000000
+Position Y: 0.000000
+Position Z: 0.000000
+Rotation Y: -16384
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+
+Skin: 217
+Child Count: 0
+Map Section: 11
+Wave Number 1: 18
+Wave Number 2: 18
+Position X: 0.000000
+Position Y: 0.000000
+Position Z: 100.000000
+Rotation Y: 32768
+1: 0.000000
+2: 0.000000
+3: 0.000000
+4: 0.000000
+5: 0.000000
+6: 0
+
+

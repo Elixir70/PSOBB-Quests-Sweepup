@@ -5,8 +5,8 @@
 # Valid types are obj, npc, wav, cmspawn, cmconfig
 # Valid example of one line entry: su4_ep2/su4_ep2_first.txt, 0, obj
 # Avoid empty lines.
-su5/quest1769_a0_obj.txt, 0, obj
-su5/quest1769_a17_obj.txt, 17, obj
-su5/quest1769_a0_npc.txt, 0, npc
-su5/quest1769_a17_npc.txt, 17, npc
-su5/quest1769_a17_wave.txt, 17, wave
+quest1769_a0_obj.txt, 0, obj
+quest1769_a17_obj.txt, 17, obj
+quest1769_a0_npc.txt, 0, npc
+quest1769_a17_npc.txt, 17, npc
+quest1769_a17_wave.txt, 17, wave

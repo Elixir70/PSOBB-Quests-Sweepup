@@ -1954,7 +1954,7 @@ Skin: 132
 ID: 0
 Appear Flag: 1
 Map Section: 30
-Position X: 84.000000
+Position X: 86.000000
 Position Y: 0.000000
 Position Z: 48.000000
 Rotation Y: -16384
@@ -1970,7 +1970,7 @@ Skin: 132
 ID: 0
 Appear Flag: 1
 Map Section: 12
-Position X: -84.000000
+Position X: -86.000000
 Position Y: -3.000000
 Position Z: 48.000000
 Rotation Y: 16384
@@ -2396,5 +2396,37 @@ Rotation Y: 0
 4: 401
 5: 0
 6: 0
+
+
+Skin: 150
+ID: 0
+Appear Flag: 0
+Map Section: 30
+Position X: 88.000000
+Position Y: -2.000000
+Position Z: 48.000000
+Rotation Y: 36000
+1: 1.000000
+2: 6.000000
+3: 28.000000
+4: 205
+5: 0
+6: -1
+
+
+Skin: 150
+ID: 0
+Appear Flag: 0
+Map Section: 12
+Position X: -88.000000
+Position Y: -2.000000
+Position Z: 46.124565
+Rotation Y: 29000
+1: 1.000000
+2: 6.000000
+3: 28.000000
+4: 206
+5: 0
+6: -1
 
 

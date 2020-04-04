@@ -177,22 +177,6 @@ Rotation Y: -32768
 Skin: 8
 ID: 65535
 Appear Flag: 0
-Map Section: 53
-Position X: -116.889473
-Position Y: 0.000000
-Position Z: -82.977943
-Rotation Y: -32768
-1: 25.000000
-2: 1.000000
-3: 1.000000
-4: 532
-5: 0
-6: 0
-
-
-Skin: 8
-ID: 65535
-Appear Flag: 0
 Map Section: 52
 Position X: 119.132248
 Position Y: 0.000000
